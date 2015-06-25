@@ -9,4 +9,14 @@
   - Analytic vs Synthetic Judgement
   - Families of Types
 3. 
-  - 
+  - Families of Types
+  - Functionality / Functorality
+  - Dependenty Type Theory (DTT)
+4. 
+  - Proof Relevant Equality
+  - Identification Type
+5.
+  - Identification Type
+  - Identification is an Equivalence Relation
+  - Identification is an $$\infty$$-groupoid.
+  - Interval
