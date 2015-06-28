@@ -7,12 +7,12 @@
     1. Show that every Heyting Algebra is Distributive.
     2. Show that in a Heyting Algebra the following hold:
        - Weakening:
-         - `X <= X \/ Y`
-         - `X \/ Y <= X`
+         - $$X \le X \vee Y$$
+         - $$X \vee Y \le X$$
        - Contraction
-         - `X <= X /\ Y`
+         - $$X <= X \wedge Y$$
        - Exchange
-         - `X /\ Y <= Y /\ X`
+         - $$X \wedge Y \le Y \wedge X$$
 
 ## Day 2 --- _IPL and STT_
   - Intuitionistic Propositional Logic / Simple Type Theory
