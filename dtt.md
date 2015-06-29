@@ -13,12 +13,16 @@
          - $$X <= X \wedge Y$$
        - Exchange
          - $$X \wedge Y \le Y \wedge X$$
+  - Scanned Notes:
+    - [dbp](scans/dbp-harper-1.pdf)
 
 ## Day 2 --- _IPL and STT_
   - Intuitionistic Propositional Logic / Simple Type Theory
   - Analytic vs Synthetic Judgement
   - Families of Types
   - **Exercises** NOTE(dbp 2015-06-28): I couldn't find any.
+  - Scanned Notes:
+    - [dbp](scans/dbp-harper-2.pdf)
 
 ## Day 3 -- _DTT_
   - Families of Types
@@ -45,7 +49,8 @@
        EQ(Succ x, Succ y) = EQ(x,y)
        ```
     4. Write a proof term showing that for all `x:Nat`, `EQ(x,x)`.
-
+  - Scanned Notes:
+    - [dbp](scans/dbp-harper-3.pdf)
 
 ## Day 4 --- _Proof Relevant Equality_
   - Proof Relevant Equality
@@ -58,7 +63,8 @@
        - $$EQ_{\Pi x:A. B} = ?$
     2. Prove the following:
        $$\Pi x:A. \Sigma y:B. R(x,y) \rightarrow \Sigma f : A -> B. \Pi x:A R(x, y x)$$
-
+  - Scanned Notes:
+    - [dbp](scans/dbp-harper-4.pdf)
 
 ## Day 5 --- _Identification Types_
   - Identification is an Equivalence Relation
@@ -79,3 +85,5 @@
        $$Id_{A \rightarrow B}(f,g) \rightarrow \Pi_{x:A} f(x) =_{B} g(x)$$
     5. Prove the following implication:
        $$ \Pi_{x:A} f(x) =_{B} g(x) \rightarrow \Pi_{x,y:A} x =_A y \rightarrow f(x) =_B g(y)$$
+  - Scanned Notes:
+    - [dbp](scans/dbp-harper-5.pdf)
